@@ -1,0 +1,10 @@
+Qudurat Dataset: 
+     A new benchmark called Qudurat is introduced to evaluate the ability of LLM to understand and solve reasoning mathematical questions. This dataset is Arabic MWPs of Academic Aptitude Test from Kuwait university. This exam is important for high school students to obtain admission to universities inside or outside Kuwait. Math Aptitude Test consists of eight sections with different types of questions. Most students faced challenges in understanding and finding solutions of MWPs. Due to lack of resources of these type of questions, Qudurat dataset is generated to help students in MWPs. 
+     Qudurat benchmark consists of 140 MWPs with solution steps. These problems are collected from previous aptitude tests in Kuwait University. Some resources of these questions include details of how to solve with logical steps. There were some questions with final answer without any steps, so a specialized in mathematics was assigned to solve them in detail.
+      The level of these problems is medium and the high school student needs to study well for this exam. Furthermore, the students must practice the types of questions expected in the test. Thus, it is important to find reliable and comprehensive sources with solution details. Qudurat is available in JSONL format.
+     The number of steps of Qudurat question is range between 1 and 8 to find the final answer. To find solutions of these mathematic problems, basic arithmetic operations (addition, subtraction, multiplication, and division) are used. It is anticipated that a high school student with some preparation and studying well will be able to come up with a correct answer. 
+
+
+Please use the following citation when using the dataset: 
+
+Alenzi, Reem, Salman, Ayed. (2025) ' Qudurat dataset (Qudurat)'. Available at: https://github.com/Reemalenzi/Qudurat (Accessed April 2025).
